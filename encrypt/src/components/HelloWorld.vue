@@ -14,8 +14,8 @@
       <div class="content" id="mid">
         <el-switch
           v-model="model"
-          active-text="加密"
-          inactive-text="解密"
+          active-text="解密"
+          inactive-text="加密"
           inactive-color="#13ce66"
         >
         </el-switch> <br /> <br />
